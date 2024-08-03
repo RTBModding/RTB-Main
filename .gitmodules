@@ -1,0 +1,9 @@
+[submodule "libs"]
+	path = libs
+	url = https://github.com/RTBModding/libs.git
+[submodule "RaceBits"]
+	path = RaceBits
+	url = https://github.com/RTBModding/RaceBits.git
+[submodule "RaceTrackBuilder"]
+	path = RaceTrackBuilder
+	url = https://github.com/RTBModding/RaceTrackBuilder.git
