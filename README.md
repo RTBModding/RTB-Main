@@ -17,6 +17,7 @@ Planned
 - [ ] More terrain subdivision
 - [ ] Make terrain nodes activation zone bigger (hover area)
 - [ ] Make terrain nodes movable horizontally
+- [ ] Split roads, walls etc when deleting a node, instead of just removing the node (context menu, key combo or setting)
 
 Other
 - Revamped options menu.
