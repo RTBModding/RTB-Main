@@ -1,11 +1,14 @@
 # RTB-Main
 
 > [!NOTE]  
-> Race Track Builder is paid and obfuscated software. The author did not intent for anyone to reverse and modify this software and doing so might not be entirely legal. </br></br>**However:** The developer abandoned this project a long time ago and does not care about its users.
+> Race Track Builder is proprietary software with obfuscated code. The author did not intend for anyone to reverse-engineer or modify it, and doing so may not be entirely legal.
+>
+> However: The developer abandoned this project a long time ago and no longer supports it.<br/>
+> Additionally, this repository contains no actual code and merely functions as a central hub.
 
 
 * install visual studio build tools c#/.net 
-* clone repo recursive and initialize subrepos
+* clone repo recursive and initialize subrepos (these are private)
 * change and run build_debug.bat
 
 Planned
