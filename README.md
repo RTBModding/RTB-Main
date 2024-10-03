@@ -25,8 +25,8 @@ Planned RTB
 - [x] Organized options menu
 - [x] Updated .NET version
 
-  Planned XPacker
-  - [ ] Multi-Select-Tree with changed settings applied to all items
-  - [ ] DEL key shortcut for selected items
-  - [ ] Delete all selected items at once, if possible
-  - [x] Add multiple FBX at once
+Planned XPacker
+- [ ] Multi-Select-Tree with changed settings applied to all items
+- [ ] DEL key shortcut for selected items
+- [ ] Delete all selected items at once, if possible
+- [x] Add multiple FBX at once
