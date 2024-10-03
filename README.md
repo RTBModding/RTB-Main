@@ -26,3 +26,4 @@ Planned
 
 Other
 - Revamped options menu.
+- Updated .NET version
