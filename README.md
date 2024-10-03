@@ -21,7 +21,8 @@ Planned
 - [ ] Make terrain nodes activation zone bigger (hover area)
 - [ ] Make terrain nodes movable horizontally
 - [ ] Split roads, walls etc when deleting a node, instead of just removing the node (context menu, key combo or setting)
-- [ ] Reverse the random heights plugin and create a new one that uses heightmaps
+- [x] Reverse the random heights plugin and create a new one that uses heightmaps
+- [ ] Multi-Select-Tree with changed settings applied to all items
 
 Other
 - Revamped options menu.
